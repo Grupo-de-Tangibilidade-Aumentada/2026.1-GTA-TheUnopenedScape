@@ -23,7 +23,7 @@ The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicoló
 <div align="center">
 
 | Tecnologia | Descrição |
-| :---: | :--- |
+| :---: | :---:  |
 | **Unity Engine** | Motor gráfico utilizado para simulação de física, renderização de materiais e controle de iluminação de horror. |
 | **C#** | Programação orientada a componentes e tratamento lógico das mecânicas internas de validação. |
 | **Figma** | Ferramenta gráfica aplicada na identidade visual, paleta de cores e diagramação dos manuais digitais e impressos. |
@@ -35,7 +35,7 @@ The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicoló
 <div align="center">
    
 | Membro | Matrícula |  GitHub |
-| :---: | :---: | :--- |
+| :---: | :---: | :---:  |
 | Othavio Araujo Bolzan | 231039150 | [bolzanMGB](https://github.com/bolzanMGB) |
 |Yan Matheus Santa Brigida de Aguiar | 231038303 | [Yanmatheus0812](https://github.com/Yanmatheus0812) |
 
