@@ -2,8 +2,6 @@
 
 The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicológico, desenvolvido para óculos de Realidade Virtual (Meta Quest) e integrado a uma interface mobile para smartphones. O jogo foi desenvolvido como projeto prático da disciplina Tópicos Especiais em Jogos Digitais – Turma 1 (2026/1), do curso de Engenharia de Software da Universidade de Brasília (UnB/FGA).
 
----
-
 ## 1. Links Importantes
 
 <div align="center">
@@ -16,8 +14,6 @@ The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicoló
 
 </div>
 
----
-
 ## 2. Tecnologias Utilizadas
 
 <div align="center">
@@ -29,8 +25,6 @@ The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicoló
 | **Figma** | Ferramenta gráfica aplicada na identidade visual, paleta de cores e diagramação dos manuais digitais e impressos. |
 
 </div>
-
----
 
 ## 3. Integrantes do Grupo
 
