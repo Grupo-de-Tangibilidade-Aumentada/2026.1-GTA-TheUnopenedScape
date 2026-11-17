@@ -1,4 +1,6 @@
-# The Unopened Escape
+<div align="center">
+<h1> The Unopened Scape</h1>
+<div align="center">
 
 The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicológico, desenvolvido para óculos de Realidade Virtual (Meta Quest) e integrado a uma interface mobile para smartphones. O jogo foi desenvolvido como projeto prático da disciplina Tópicos Especiais em Jogos Digitais – Turma 1 (2026/1), do curso de Engenharia de Software da Universidade de Brasília (UnB/FGA).
 
