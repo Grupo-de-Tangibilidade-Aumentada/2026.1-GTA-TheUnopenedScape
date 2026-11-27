@@ -10,10 +10,10 @@ The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicoló
 
 <div align="center">
 
-| Item |
-| :---: |
-| [Product Backlog](https://github.com/orgs/Grupo-de-Tangibilidade-Aumentada/projects/1/views/6) |
-| [TaskBoard](https://github.com/orgs/Grupo-de-Tangibilidade-Aumentada/projects/1/views/8) |
+|                                                   Item                                                   |
+| :------------------------------------------------------------------------------------------------------: |
+|      [Product Backlog](https://github.com/orgs/Grupo-de-Tangibilidade-Aumentada/projects/1/views/6)      |
+|         [TaskBoard](https://github.com/orgs/Grupo-de-Tangibilidade-Aumentada/projects/1/views/8)         |
 | [SGDD](https://docs.google.com/document/d/19iKjf4_W0coSw6DeEdmJOn1mLrcc9Qn5BeEzh3aXI8o/edit?usp=sharing) |
 
 </div>
@@ -22,11 +22,24 @@ The Unopened Escape é um minijogo cooperativo e assimétrico de horror psicoló
 
 <div align="center">
 
-| Tecnologia | Descrição |
-| :---: | :---:  |
-| **Unity Engine** | Motor gráfico utilizado para simulação de física, renderização de materiais e controle de iluminação de horror. |
-| **C#** | Programação orientada a componentes e tratamento lógico das mecânicas internas de validação. |
-| **Figma** | Ferramenta gráfica aplicada na identidade visual, paleta de cores e diagramação dos manuais digitais e impressos. |
+|    Tecnologia    |                                                     Descrição                                                     |
+| :--------------: | :---------------------------------------------------------------------------------------------------------------: |
+| **Unity Engine** |  Motor gráfico utilizado para simulação de física, renderização de materiais e controle de iluminação de horror.  |
+|      **C#**      |           Programação orientada a componentes e tratamento lógico das mecânicas internas de validação.            |
+|    **Figma**     | Ferramenta gráfica aplicada na identidade visual, paleta de cores e diagramação dos manuais digitais e impressos. |
+
+</div>
+
+<div align="center">
+
+## 4. Como rodar a documentação localmente
+
+```bash
+pip install -r requirements-docs.txt
+mkdocs serve
+```
+
+O site ficará disponível em `http://127.0.0.1:8000`.
 
 </div>
 

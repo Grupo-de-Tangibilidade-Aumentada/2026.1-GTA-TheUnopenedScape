@@ -49,5 +49,8 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Descrição do Jogo: descricao-do-jogo.md
-  - Product Backlog: product-backlog.md
+  - Product Backlog:
+      - Requisitos: product-backlog/requisitos.md
+      - Histórias de Usuário: product-backlog/historias-de-usuario.md
+      - Backlog: product-backlog/backlog.md
   - SGDD: sgdd.md
