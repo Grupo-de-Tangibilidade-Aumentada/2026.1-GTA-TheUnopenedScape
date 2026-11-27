@@ -1,0 +1,53 @@
+site_name: The Unopened Scape
+site_description: Documentação oficial do jogo The Unopened Escape — jogo cooperativo e assimétrico de horror psicológico em Realidade Virtual (UnB/FGA).
+site_url: https://grupo-de-tangibilidade-aumentada.github.io/2026.1-GTA-TheUnopenedScape/
+repo_name: Grupo-de-Tangibilidade-Aumentada/2026.1-GTA-TheUnopenedScape
+repo_url: https://github.com/Grupo-de-Tangibilidade-Aumentada/2026.1-GTA-TheUnopenedScape
+docs_dir: docs
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Alternar para modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Alternar para modo escuro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Início: index.md
+  - Descrição do Jogo: descricao-do-jogo.md
+  - Product Backlog: product-backlog.md
+  - SGDD: sgdd.md
